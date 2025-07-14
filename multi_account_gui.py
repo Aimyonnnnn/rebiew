@@ -4289,6 +4289,7 @@ def main():
         crash_logger.save_crash_log()
         print(f"❌ 프로그램 실행 중 오류 발생: {e}")
         sys.exit(1)
+      #review
 
 
 if __name__ == "__main__":
