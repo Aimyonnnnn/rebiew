@@ -1,0 +1,7 @@
+{
+    "repeat_interval": 0,
+    "auto_delete_completed_posts": false,
+    "chrome_path": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "concurrent_limit": 1,
+    "sahari_concurrent_limit": 4
+}

@@ -1,0 +1,16 @@
+{
+    "search_query": "반하리",
+    "delay_min": 1,
+    "delay_max": 1,
+    "manual_comments": "와!!!!! 좋은 글 감사합니다!! 친하게 지내요~~!!",
+    "follow_count": 4,
+    "like_min": 1,
+    "like_max": 3,
+    "repost_min": 0,
+    "repost_max": 1,
+    "comment_min": 1,
+    "comment_max": 1,
+    "repeat_hour": 1,
+    "repeat_minute": 0,
+    "repeat_none": false
+}
